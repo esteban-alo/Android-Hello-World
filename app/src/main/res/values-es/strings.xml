@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="lbl_welcome">Bienvenido</string>
+    <string name="lbl_greet_user">¡Hola!</string>
+    <string name="txt_name">Escriba su nombre aquí</string>
+    <string name="btn_greet">Saludar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="alert_option">Ok</string>
+</resources>

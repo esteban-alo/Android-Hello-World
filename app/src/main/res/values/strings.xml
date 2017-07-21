@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="lbl_welcome">Welcome</string>
+    <string name="lbl_greet_user">Hello!</string>
+    <string name="txt_name">Type your name here</string>
+    <string name="btn_greet">Hello</string>
+    <string name="btn_cancel">Clear</string>
+    <string name="alert_option">Ok</string>
+</resources>
